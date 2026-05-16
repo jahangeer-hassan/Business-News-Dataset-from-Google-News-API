@@ -102,7 +102,7 @@ The project includes powerful visualizations such as:
 
 # 📁 Project Structure
 
-```bash
+```bash id="go2fvh"
 Business-News-EDA/
 │
 ├── data/
@@ -124,19 +124,19 @@ Business-News-EDA/
 
 ## 1️⃣ Clone Repository
 
-```bash
-git clone https://github.com/your-username/Business-News-EDA.git
+```bash id="rfrk4l"
+git clone https://github.com/jahangeer-hassan
 ```
 
 ## 2️⃣ Install Required Libraries
 
-```bash
+```bash id="w91ufw"
 pip install pandas numpy matplotlib seaborn requests
 ```
 
 ## 3️⃣ Run Jupyter Notebook
 
-```bash
+```bash id="o0vl4v"
 jupyter notebook
 ```
 
@@ -161,15 +161,17 @@ This project demonstrates how real-time business news data can be analyzed using
 
 # 🤝 Connect With Me
 
-If you like this project:
+## GitHub
 
-⭐ Star the repository
-🍴 Fork the project
-📢 Share your feedback
-🤝 Connect with me on GitHub & LinkedIn
+[GitHub Profile](https://github.com/jahangeer-hassan)
+
+## LinkedIn
+
+[LinkedIn Profile](https://www.linkedin.com/in/jahangeer-hassan-data-analysts/)
 
 ---
 
 # 📜 License
 
 This project is open-source and available for educational and learning purposes.
+
